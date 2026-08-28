@@ -19,7 +19,22 @@ def fetch_bls_series(series_ids: list[str], start_year:str, end_year:str) -> dic
     }
     response = requests.post(BLS_URL, json=payload)
     response.raise_for_status()
-    return response.json()
+
+    data = response.json()
+
+    if data.get("status") != "REQUEST_SUCCEEDED":
+        raise ValueError(f"BLS API returned status: {data.get('status')} | message: {data.get('message')}")
+
+    returned_series = data.get("Results", {}).get("series", [])
+    
+    empty_series = [s["seriesID"] for s in returned_series if not s.get("data")]
+
+    if empty_series:
+        print(f"Warning: no data returned for series: {empty_series}")
+        if data.get("message"):
+            print(f"BLS message: {data['message']}")
+
+    return data
 
 def save_raw(data: dict, source:str, folder:str = "data/raw/bls"):
     os.makedirs(folder, exist_ok=True)
@@ -52,11 +67,18 @@ SERIES_CONFIG = {
 }
 
 
+# if __name__ == "__main__":
+#     data = fetch_bls_series(["INVALID_SERIES_ID"], "2023", "2024")
+#     print("Done.")
+
+
 if __name__ == "__main__":
     for source_name, series_ids in SERIES_CONFIG.items():
         print(f"Fetching: {source_name}")
         data = fetch_bls_series(series_ids,"2023","2024")
         save_raw(data, source=source_name)
+
+
 
 # if __name__ == "__main__":
 #     data = fetch_bls_series(["LNS14000000"], "2023", "2024")
