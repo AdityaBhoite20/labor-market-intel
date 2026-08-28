@@ -28,6 +28,20 @@ def build_oews_series_id(soc_code:str, datatype:str) ->str:
     )
     return series_id
 
+def build_series_lookup() -> dict:
+    lookup = {}
+    for occupation in OCCUPATIONS:
+        title = occupation["title"]
+        soc_code = occupation["soc_code"]
+
+        employment_id = build_oews_series_id(soc_code, "employment")
+        median_wage_id = build_oews_series_id(soc_code, "annual_median_wage")
+
+        lookup[employment_id] = {"title": title, "soc_code": soc_code, "measure": "employment"}
+        lookup[median_wage_id] = {"title": title, "soc_code": soc_code, "measure": "median_wage"}
+
+    return lookup
+
 
 if __name__ == "__main__":
     all_series_ids = []
