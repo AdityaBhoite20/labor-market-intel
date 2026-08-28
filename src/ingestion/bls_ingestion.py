@@ -33,9 +33,31 @@ def save_raw(data: dict, source:str, folder:str = "data/raw/bls"):
 
     print(f"Saved raw data to: {filepath}")
 
+
+SERIES_CONFIG = {
+    "ces_industry_employment": [
+        "CES0000000001",  # Total Nonfarm
+        "CES6000000001",  # Professional & Business Services
+        "CES6500000001",  # Education & Health Services
+        "CES5000000001",  # Information
+        "CES3000000001",  # Manufacturing
+    ],
+    "laus_state_unemployment": [
+        "LASST060000000000003",  # California
+        "LASST360000000000003",  # New York
+        "LASST480000000000003",  # Texas
+        "LASST170000000000003",  # Illinois
+        "LASST120000000000003",  # Florida
+    ],
+}
+
+
 if __name__ == "__main__":
-    data = fetch_bls_series(["LNS14000000"], "2023", "2024")
-    save_raw(data, source="unemployment_rate")
+    for source_name, series_ids in SERIES_CONFIG.items():
+        print(f"Fetching: {source_name}")
+        data = fetch_bls_series(series_ids,"2023","2024")
+        save_raw(data, source=source_name)
+
 # if __name__ == "__main__":
 #     data = fetch_bls_series(["LNS14000000"], "2023", "2024")
 #     print(json.dumps(data,indent=2))
