@@ -40,13 +40,7 @@ final_columns = final_columns.rename(columns={
 
 print(final_columns.head())
 
-def save_processed(df: pd.DataFrame, filename: str, folder: str = "data/processed"):
-    os.makedirs(folder, exist_ok=True)
-    filepath = os.path.join(folder, filename)
-    df.to_csv(filepath, index=False)
-    print(f"Saved processed data to: {filepath}")
 
-save_processed(final_columns, "oews_all_occupations_2020_2025.csv")
 
 for col in ["median_wage", "mean_wage", "wage_pct10", "wage_pct25", "wage_pct75", "wage_pct90"]:
     count_hash = (final_columns[col] == "#").sum()
@@ -67,3 +61,11 @@ final_columns["employment"] = pd.to_numeric(final_columns["employment"])
 print(final_columns.dtypes)
 
 print(final_columns.describe())
+
+def save_processed(df: pd.DataFrame, filename: str, folder: str = "data/processed"):
+    os.makedirs(folder, exist_ok=True)
+    filepath = os.path.join(folder, filename)
+    df.to_csv(filepath, index=False)
+    print(f"Saved processed data to: {filepath}")
+
+save_processed(final_columns, "oews_all_occupations_2020_2025.csv")
