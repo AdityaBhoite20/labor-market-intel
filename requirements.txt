@@ -5,3 +5,5 @@ openpyxl
 jupyter
 matplotlib
 seaborn
+psycopg2-binary
+sqlalchemy
