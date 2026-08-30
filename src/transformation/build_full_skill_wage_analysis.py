@@ -14,7 +14,7 @@ skills_clean_full = skills_clean_full.rename(columns={
 
 print(skills_clean_full.shape)
 
-oews_full = pd.read_csv("data/processed/oews_all_occupations_2020_2025.csv")
+oews_full = pd.read_csv("data/processed/oews_all_occupations_2015_2025.csv")
 oews_2025 = oews_full[oews_full["year"] == 2025]
 
 full_skill_wage = skills_clean_full.merge(

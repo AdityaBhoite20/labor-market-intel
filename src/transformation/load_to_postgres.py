@@ -5,7 +5,7 @@ from db_connection import get_db_engine
 
 engine = get_db_engine()
 
-oews = pd.read_csv("data/processed/oews_all_occupations_2020_2025.csv")
+oews = pd.read_csv("data/processed/oews_all_occupations_2015_2025.csv")
 oews.to_sql("oews_occupations", engine, if_exists="replace", index=False)
 print("Loaded oews_occupations table")
 
