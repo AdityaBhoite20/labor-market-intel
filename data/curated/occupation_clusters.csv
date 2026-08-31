@@ -1,0 +1,756 @@
+occupation_title,soc_code,median_wage,employment,cluster_v2,cluster_name
+Chief Executives,11-1011,213990.0,204350.0,2,Elite High-Wage Executives & Medical Specialists
+General and Operations Managers,11-1021,105770.0,3503020.0,3,Business & Operations Management
+Advertising and Promotions Managers,11-2011,133660.0,21470.0,3,Business & Operations Management
+Marketing Managers,11-2021,166790.0,395240.0,3,Business & Operations Management
+Sales Managers,11-2022,148270.0,637080.0,3,Business & Operations Management
+Public Relations Managers,11-2032,146910.0,74850.0,3,Business & Operations Management
+Fundraising Managers,11-2033,125470.0,38810.0,3,Business & Operations Management
+Administrative Services Managers,11-3012,114130.0,263960.0,3,Business & Operations Management
+Facilities Managers,11-3013,106660.0,156180.0,3,Business & Operations Management
+Computer and Information Systems Managers,11-3021,175140.0,670570.0,3,Business & Operations Management
+Financial Managers,11-3031,166570.0,841710.0,3,Business & Operations Management
+Industrial Production Managers,11-3051,126060.0,246250.0,3,Business & Operations Management
+Purchasing Managers,11-3061,148080.0,84320.0,3,Business & Operations Management
+"Transportation, Storage, and Distribution Managers",11-3071,107230.0,221180.0,3,Business & Operations Management
+Compensation and Benefits Managers,11-3111,149230.0,22940.0,3,Business & Operations Management
+Human Resources Managers,11-3121,149280.0,220660.0,3,Business & Operations Management
+Training and Development Managers,11-3131,133000.0,48050.0,3,Business & Operations Management
+"Farmers, Ranchers, and Other Agricultural Managers",11-9013,89900.0,6500.0,4,Quantitative/Technical Specialists & Managers
+Construction Managers,11-9021,114990.0,380360.0,3,Business & Operations Management
+"Education and Childcare Administrators, Preschool and Daycare",11-9031,59300.0,73660.0,3,Business & Operations Management
+"Education Administrators, Kindergarten through Secondary",11-9032,105870.0,328330.0,3,Business & Operations Management
+"Education Administrators, Postsecondary",11-9033,104590.0,180470.0,3,Business & Operations Management
+Architectural and Engineering Managers,11-9041,171270.0,220260.0,4,Quantitative/Technical Specialists & Managers
+Food Service Managers,11-9051,69390.0,238430.0,3,Business & Operations Management
+Gambling Managers,11-9071,93220.0,5030.0,3,Business & Operations Management
+"Entertainment and Recreation Managers, Except Gambling",11-9072,79520.0,37980.0,3,Business & Operations Management
+Lodging Managers,11-9081,69250.0,42620.0,3,Business & Operations Management
+Medical and Health Services Managers,11-9111,123860.0,597080.0,3,Business & Operations Management
+Natural Sciences Managers,11-9121,167220.0,108690.0,4,Quantitative/Technical Specialists & Managers
+Postmasters and Mail Superintendents,11-9131,96660.0,13810.0,3,Business & Operations Management
+"Property, Real Estate, and Community Association Managers",11-9141,69990.0,311180.0,3,Business & Operations Management
+Social and Community Service Managers,11-9151,80390.0,209330.0,3,Business & Operations Management
+Emergency Management Directors,11-9161,93330.0,13500.0,3,Business & Operations Management
+Funeral Home Managers,11-9171,78790.0,13910.0,1,Mid-Wage Financial & Analytical Specialists
+"Personal Service Managers, All Other",11-9179,69770.0,10450.0,3,Business & Operations Management
+"Managers, All Other",11-9199,141900.0,622190.0,3,Business & Operations Management
+"Agents and Business Managers of Artists, Performers, and Athletes",13-1011,82890.0,12620.0,1,Mid-Wage Financial & Analytical Specialists
+"Claims Adjusters, Examiners, and Investigators",13-1031,78000.0,324230.0,3,Business & Operations Management
+"Insurance Appraisers, Auto Damage",13-1032,78240.0,11560.0,1,Mid-Wage Financial & Analytical Specialists
+Compliance Officers,13-1041,80730.0,417070.0,3,Business & Operations Management
+Cost Estimators,13-1051,78740.0,224220.0,1,Mid-Wage Financial & Analytical Specialists
+Human Resources Specialists,13-1071,75940.0,912430.0,3,Business & Operations Management
+Farm Labor Contractors,13-1074,58460.0,310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Labor Relations Specialists,13-1075,95420.0,64810.0,3,Business & Operations Management
+Logisticians,13-1081,82320.0,251040.0,3,Business & Operations Management
+Project Management Specialists,13-1082,102320.0,1066670.0,3,Business & Operations Management
+Management Analysts,13-1111,101860.0,898280.0,3,Business & Operations Management
+"Meeting, Convention, and Event Planners",13-1121,61160.0,142860.0,3,Business & Operations Management
+Fundraisers,13-1131,72550.0,111040.0,3,Business & Operations Management
+"Compensation, Benefits, and Job Analysis Specialists",13-1141,78210.0,112380.0,3,Business & Operations Management
+Training and Development Specialists,13-1151,69280.0,458300.0,3,Business & Operations Management
+Market Research Analysts and Marketing Specialists,13-1161,78760.0,899580.0,3,Business & Operations Management
+"Business Operations Specialists, All Other",13-1199,83050.0,1087090.0,3,Business & Operations Management
+Accountants and Auditors,13-2011,83680.0,1449500.0,1,Mid-Wage Financial & Analytical Specialists
+Budget Analysts,13-2031,91640.0,47160.0,1,Mid-Wage Financial & Analytical Specialists
+Credit Analysts,13-2041,83510.0,64390.0,1,Mid-Wage Financial & Analytical Specialists
+Personal Financial Advisors,13-2052,105070.0,266800.0,3,Business & Operations Management
+Insurance Underwriters,13-2053,81370.0,105420.0,1,Mid-Wage Financial & Analytical Specialists
+Financial Examiners,13-2061,94160.0,67830.0,3,Business & Operations Management
+Credit Counselors,13-2071,52230.0,27770.0,3,Business & Operations Management
+Loan Officers,13-2072,76690.0,274330.0,1,Mid-Wage Financial & Analytical Specialists
+"Tax Examiners and Collectors, and Revenue Agents",13-2081,62370.0,56610.0,3,Business & Operations Management
+Tax Preparers,13-2082,54920.0,76480.0,1,Mid-Wage Financial & Analytical Specialists
+"Financial Specialists, All Other",13-2099,81100.0,132130.0,4,Quantitative/Technical Specialists & Managers
+Computer Systems Analysts,15-1211,105850.0,519530.0,3,Business & Operations Management
+Information Security Analysts,15-1212,129180.0,190650.0,3,Business & Operations Management
+Computer and Information Research Scientists,15-1221,140300.0,37200.0,4,Quantitative/Technical Specialists & Managers
+Computer Network Support Specialists,15-1231,76220.0,146190.0,1,Mid-Wage Financial & Analytical Specialists
+Computer User Support Specialists,15-1232,61860.0,717190.0,3,Business & Operations Management
+Computer Network Architects,15-1241,134050.0,179740.0,3,Business & Operations Management
+Database Administrators,15-1242,104620.0,69990.0,1,Mid-Wage Financial & Analytical Specialists
+Database Architects,15-1243,139500.0,67140.0,1,Mid-Wage Financial & Analytical Specialists
+Network and Computer Systems Administrators,15-1244,99130.0,314340.0,3,Business & Operations Management
+Computer Programmers,15-1251,100390.0,92230.0,1,Mid-Wage Financial & Analytical Specialists
+Software Developers,15-1252,135980.0,1687890.0,1,Mid-Wage Financial & Analytical Specialists
+Software Quality Assurance Analysts and Testers,15-1253,104300.0,186740.0,3,Business & Operations Management
+Web Developers,15-1254,92650.0,70190.0,1,Mid-Wage Financial & Analytical Specialists
+Web and Digital Interface Designers,15-1255,104000.0,113330.0,1,Mid-Wage Financial & Analytical Specialists
+"Computer Occupations, All Other",15-1299,116580.0,435370.0,1,Mid-Wage Financial & Analytical Specialists
+Actuaries,15-2011,130000.0,26670.0,4,Quantitative/Technical Specialists & Managers
+Mathematicians,15-2021,126710.0,2030.0,4,Quantitative/Technical Specialists & Managers
+Operations Research Analysts,15-2031,88940.0,108510.0,4,Quantitative/Technical Specialists & Managers
+Statisticians,15-2041,105650.0,29030.0,4,Quantitative/Technical Specialists & Managers
+Data Scientists,15-2051,120230.0,262440.0,4,Quantitative/Technical Specialists & Managers
+"Mathematical Science Occupations, All Other",15-2099,81490.0,3720.0,4,Quantitative/Technical Specialists & Managers
+"Architects, Except Landscape and Naval",17-1011,99280.0,106770.0,4,Quantitative/Technical Specialists & Managers
+Landscape Architects,17-1012,79870.0,19600.0,4,Quantitative/Technical Specialists & Managers
+Cartographers and Photogrammetrists,17-1021,81390.0,14260.0,1,Mid-Wage Financial & Analytical Specialists
+Surveyors,17-1022,75440.0,50830.0,4,Quantitative/Technical Specialists & Managers
+Aerospace Engineers,17-2011,134960.0,67710.0,4,Quantitative/Technical Specialists & Managers
+Agricultural Engineers,17-2021,98590.0,1480.0,4,Quantitative/Technical Specialists & Managers
+Bioengineers and Biomedical Engineers,17-2031,109370.0,23480.0,4,Quantitative/Technical Specialists & Managers
+Chemical Engineers,17-2041,125040.0,21070.0,4,Quantitative/Technical Specialists & Managers
+Civil Engineers,17-2051,100840.0,367840.0,4,Quantitative/Technical Specialists & Managers
+Computer Hardware Engineers,17-2061,161740.0,76660.0,4,Quantitative/Technical Specialists & Managers
+Electrical Engineers,17-2071,120630.0,198750.0,4,Quantitative/Technical Specialists & Managers
+"Electronics Engineers, Except Computer",17-2072,130220.0,96900.0,4,Quantitative/Technical Specialists & Managers
+Environmental Engineers,17-2081,107110.0,38340.0,4,Quantitative/Technical Specialists & Managers
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",17-2111,115160.0,21450.0,4,Quantitative/Technical Specialists & Managers
+Industrial Engineers,17-2112,102440.0,365740.0,3,Business & Operations Management
+Marine Engineers and Naval Architects,17-2121,112230.0,8250.0,4,Quantitative/Technical Specialists & Managers
+Materials Engineers,17-2131,112860.0,22770.0,4,Quantitative/Technical Specialists & Managers
+Mechanical Engineers,17-2141,104110.0,296810.0,4,Quantitative/Technical Specialists & Managers
+"Mining and Geological Engineers, Including Mining Safety Engineers",17-2151,106220.0,6080.0,4,Quantitative/Technical Specialists & Managers
+Nuclear Engineers,17-2161,133970.0,15280.0,4,Quantitative/Technical Specialists & Managers
+Petroleum Engineers,17-2171,144910.0,18060.0,4,Quantitative/Technical Specialists & Managers
+"Engineers, All Other",17-2199,122930.0,154070.0,4,Quantitative/Technical Specialists & Managers
+Architectural and Civil Drafters,17-3011,66150.0,103700.0,1,Mid-Wage Financial & Analytical Specialists
+Electrical and Electronics Drafters,17-3012,76870.0,17920.0,1,Mid-Wage Financial & Analytical Specialists
+Mechanical Drafters,17-3013,71550.0,39960.0,1,Mid-Wage Financial & Analytical Specialists
+Aerospace Engineering and Operations Technologists and Technicians,17-3021,82890.0,11280.0,4,Quantitative/Technical Specialists & Managers
+Civil Engineering Technologists and Technicians,17-3022,64950.0,68520.0,1,Mid-Wage Financial & Analytical Specialists
+Electrical and Electronic Engineering Technologists and Technicians,17-3023,78190.0,95130.0,1,Mid-Wage Financial & Analytical Specialists
+Electro-Mechanical and Mechatronics Technologists and Technicians,17-3024,73900.0,15520.0,1,Mid-Wage Financial & Analytical Specialists
+Environmental Engineering Technologists and Technicians,17-3025,59920.0,12190.0,4,Quantitative/Technical Specialists & Managers
+Industrial Engineering Technologists and Technicians,17-3026,66120.0,75570.0,1,Mid-Wage Financial & Analytical Specialists
+Mechanical Engineering Technologists and Technicians,17-3027,74510.0,36190.0,4,Quantitative/Technical Specialists & Managers
+"Engineering Technologists and Technicians, Except Drafters, All Other",17-3029,78350.0,59930.0,1,Mid-Wage Financial & Analytical Specialists
+Surveying and Mapping Technicians,17-3031,54240.0,58010.0,1,Mid-Wage Financial & Analytical Specialists
+Animal Scientists,19-1011,68940.0,3100.0,4,Quantitative/Technical Specialists & Managers
+Food Scientists and Technologists,19-1012,88720.0,13060.0,4,Quantitative/Technical Specialists & Managers
+Soil and Plant Scientists,19-1013,78850.0,15730.0,4,Quantitative/Technical Specialists & Managers
+Biochemists and Biophysicists,19-1021,127410.0,33830.0,4,Quantitative/Technical Specialists & Managers
+Microbiologists,19-1022,87990.0,18940.0,4,Quantitative/Technical Specialists & Managers
+Zoologists and Wildlife Biologists,19-1023,76780.0,18120.0,4,Quantitative/Technical Specialists & Managers
+"Biological Scientists, All Other",19-1029,98920.0,55850.0,4,Quantitative/Technical Specialists & Managers
+Conservation Scientists,19-1031,73010.0,25950.0,4,Quantitative/Technical Specialists & Managers
+Foresters,19-1032,76400.0,10430.0,4,Quantitative/Technical Specialists & Managers
+Epidemiologists,19-1041,87220.0,12090.0,4,Quantitative/Technical Specialists & Managers
+"Medical Scientists, Except Epidemiologists",19-1042,103410.0,172340.0,4,Quantitative/Technical Specialists & Managers
+Astronomers,19-2011,128820.0,2120.0,4,Quantitative/Technical Specialists & Managers
+Physicists,19-2012,172250.0,20430.0,4,Quantitative/Technical Specialists & Managers
+Atmospheric and Space Scientists,19-2021,99070.0,10000.0,4,Quantitative/Technical Specialists & Managers
+Chemists,19-2031,91240.0,82770.0,4,Quantitative/Technical Specialists & Managers
+Materials Scientists,19-2032,117790.0,8470.0,4,Quantitative/Technical Specialists & Managers
+"Environmental Scientists and Specialists, Including Health",19-2041,82220.0,89250.0,4,Quantitative/Technical Specialists & Managers
+"Geoscientists, Except Hydrologists and Geographers",19-2042,101920.0,23470.0,4,Quantitative/Technical Specialists & Managers
+Hydrologists,19-2043,96600.0,5850.0,4,Quantitative/Technical Specialists & Managers
+"Physical Scientists, All Other",19-2099,122570.0,22300.0,4,Quantitative/Technical Specialists & Managers
+Economists,19-3011,124720.0,17790.0,4,Quantitative/Technical Specialists & Managers
+Survey Researchers,19-3022,69460.0,8290.0,4,Quantitative/Technical Specialists & Managers
+Industrial-Organizational Psychologists,19-3032,193950.0,790.0,4,Quantitative/Technical Specialists & Managers
+Clinical and Counseling Psychologists,19-3033,100580.0,75990.0,3,Business & Operations Management
+School Psychologists,19-3034,95990.0,63940.0,3,Business & Operations Management
+"Psychologists, All Other",19-3039,110840.0,18820.0,4,Quantitative/Technical Specialists & Managers
+Sociologists,19-3041,106030.0,2260.0,4,Quantitative/Technical Specialists & Managers
+Urban and Regional Planners,19-3051,89320.0,44230.0,4,Quantitative/Technical Specialists & Managers
+Anthropologists and Archeologists,19-3091,70770.0,8990.0,4,Quantitative/Technical Specialists & Managers
+Geographers,19-3092,102040.0,1400.0,4,Quantitative/Technical Specialists & Managers
+Historians,19-3093,76750.0,3450.0,4,Quantitative/Technical Specialists & Managers
+Political Scientists,19-3094,142080.0,5540.0,4,Quantitative/Technical Specialists & Managers
+"Social Scientists and Related Workers, All Other",19-3099,101110.0,37100.0,4,Quantitative/Technical Specialists & Managers
+Agricultural Technicians,19-4012,49630.0,15130.0,1,Mid-Wage Financial & Analytical Specialists
+Food Science Technicians,19-4013,52130.0,14600.0,1,Mid-Wage Financial & Analytical Specialists
+Biological Technicians,19-4021,57510.0,69620.0,4,Quantitative/Technical Specialists & Managers
+Chemical Technicians,19-4031,60390.0,57540.0,4,Quantitative/Technical Specialists & Managers
+"Environmental Science and Protection Technicians, Including Health",19-4042,55090.0,34670.0,4,Quantitative/Technical Specialists & Managers
+"Geological Technicians, Except Hydrologic Technicians",19-4043,53350.0,6980.0,1,Mid-Wage Financial & Analytical Specialists
+Nuclear Technicians,19-4051,110240.0,6470.0,1,Mid-Wage Financial & Analytical Specialists
+Social Science Research Assistants,19-4061,61990.0,30640.0,4,Quantitative/Technical Specialists & Managers
+Forest and Conservation Technicians,19-4071,54560.0,30410.0,1,Mid-Wage Financial & Analytical Specialists
+Forensic Science Technicians,19-4092,72060.0,19120.0,4,Quantitative/Technical Specialists & Managers
+"Life, Physical, and Social Science Technicians, All Other",19-4099,62280.0,73910.0,1,Mid-Wage Financial & Analytical Specialists
+Occupational Health and Safety Specialists,19-5011,90150.0,140610.0,3,Business & Operations Management
+Occupational Health and Safety Technicians,19-5012,61560.0,30590.0,3,Business & Operations Management
+"Educational, Guidance, and Career Counselors and Advisors",21-1012,64330.0,353310.0,3,Business & Operations Management
+Marriage and Family Therapists,21-1013,66940.0,66740.0,3,Business & Operations Management
+Rehabilitation Counselors,21-1015,46850.0,94740.0,3,Business & Operations Management
+"Child, Family, and School Social Workers",21-1021,59550.0,392550.0,3,Business & Operations Management
+Healthcare Social Workers,21-1022,67880.0,187630.0,3,Business & Operations Management
+Mental Health and Substance Abuse Social Workers,21-1023,60280.0,132810.0,3,Business & Operations Management
+Health Education Specialists,21-1091,64070.0,65690.0,3,Business & Operations Management
+Probation Officers and Correctional Treatment Specialists,21-1092,66270.0,89390.0,3,Business & Operations Management
+Social and Human Service Assistants,21-1093,45930.0,437860.0,3,Business & Operations Management
+Community Health Workers,21-1094,51850.0,61660.0,3,Business & Operations Management
+Clergy,21-2011,60810.0,57200.0,3,Business & Operations Management
+"Directors, Religious Activities and Education",21-2021,52100.0,22160.0,3,Business & Operations Management
+Lawyers,23-1011,159670.0,754500.0,3,Business & Operations Management
+Judicial Law Clerks,23-1012,64920.0,13290.0,3,Business & Operations Management
+"Administrative Law Judges, Adjudicators, and Hearing Officers",23-1021,117860.0,16370.0,3,Business & Operations Management
+"Arbitrators, Mediators, and Conciliators",23-1022,75530.0,9210.0,3,Business & Operations Management
+"Judges, Magistrate Judges, and Magistrates",23-1023,153990.0,24030.0,3,Business & Operations Management
+Paralegals and Legal Assistants,23-2011,62890.0,392880.0,1,Mid-Wage Financial & Analytical Specialists
+"Title Examiners, Abstractors, and Searchers",23-2093,58650.0,48580.0,1,Mid-Wage Financial & Analytical Specialists
+"Business Teachers, Postsecondary",25-1011,99080.0,82150.0,3,Business & Operations Management
+"Computer Science Teachers, Postsecondary",25-1021,96980.0,35480.0,4,Quantitative/Technical Specialists & Managers
+"Mathematical Science Teachers, Postsecondary",25-1022,79940.0,47670.0,4,Quantitative/Technical Specialists & Managers
+"Architecture Teachers, Postsecondary",25-1031,96870.0,7700.0,4,Quantitative/Technical Specialists & Managers
+"Engineering Teachers, Postsecondary",25-1032,109270.0,40270.0,4,Quantitative/Technical Specialists & Managers
+"Agricultural Sciences Teachers, Postsecondary",25-1041,98700.0,8920.0,4,Quantitative/Technical Specialists & Managers
+"Biological Science Teachers, Postsecondary",25-1042,84620.0,50190.0,4,Quantitative/Technical Specialists & Managers
+"Forestry and Conservation Science Teachers, Postsecondary",25-1043,101420.0,1520.0,4,Quantitative/Technical Specialists & Managers
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",25-1051,103170.0,9900.0,4,Quantitative/Technical Specialists & Managers
+"Chemistry Teachers, Postsecondary",25-1052,93250.0,19980.0,4,Quantitative/Technical Specialists & Managers
+"Environmental Science Teachers, Postsecondary",25-1053,94980.0,6690.0,4,Quantitative/Technical Specialists & Managers
+"Physics Teachers, Postsecondary",25-1054,100310.0,13090.0,4,Quantitative/Technical Specialists & Managers
+"Anthropology and Archeology Teachers, Postsecondary",25-1061,99650.0,5240.0,4,Quantitative/Technical Specialists & Managers
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",25-1062,85020.0,11300.0,3,Business & Operations Management
+"Economics Teachers, Postsecondary",25-1063,123920.0,11560.0,4,Quantitative/Technical Specialists & Managers
+"Geography Teachers, Postsecondary",25-1064,97590.0,3330.0,4,Quantitative/Technical Specialists & Managers
+"Political Science Teachers, Postsecondary",25-1065,98070.0,16970.0,3,Business & Operations Management
+"Psychology Teachers, Postsecondary",25-1066,80340.0,41530.0,4,Quantitative/Technical Specialists & Managers
+"Sociology Teachers, Postsecondary",25-1067,84290.0,11850.0,3,Business & Operations Management
+"Health Specialties Teachers, Postsecondary",25-1071,107310.0,221270.0,4,Quantitative/Technical Specialists & Managers
+"Nursing Instructors and Teachers, Postsecondary",25-1072,80250.0,77960.0,3,Business & Operations Management
+"Education Teachers, Postsecondary",25-1081,75350.0,60830.0,3,Business & Operations Management
+"Library Science Teachers, Postsecondary",25-1082,80340.0,3630.0,3,Business & Operations Management
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",25-1111,76590.0,13150.0,3,Business & Operations Management
+"Law Teachers, Postsecondary",25-1112,128500.0,20060.0,3,Business & Operations Management
+"Social Work Teachers, Postsecondary",25-1113,77570.0,12610.0,3,Business & Operations Management
+"Art, Drama, and Music Teachers, Postsecondary",25-1121,78620.0,93560.0,3,Business & Operations Management
+"Communications Teachers, Postsecondary",25-1122,78580.0,29420.0,3,Business & Operations Management
+"English Language and Literature Teachers, Postsecondary",25-1123,78760.0,57720.0,3,Business & Operations Management
+"Foreign Language and Literature Teachers, Postsecondary",25-1124,79350.0,19830.0,3,Business & Operations Management
+"History Teachers, Postsecondary",25-1125,83820.0,18790.0,3,Business & Operations Management
+"Philosophy and Religion Teachers, Postsecondary",25-1126,80260.0,20460.0,3,Business & Operations Management
+"Family and Consumer Sciences Teachers, Postsecondary",25-1192,75870.0,2770.0,3,Business & Operations Management
+"Recreation and Fitness Studies Teachers, Postsecondary",25-1193,77270.0,12630.0,3,Business & Operations Management
+"Career/Technical Education Teachers, Postsecondary",25-1194,63820.0,114110.0,3,Business & Operations Management
+"Preschool Teachers, Except Special Education",25-2011,38140.0,478780.0,3,Business & Operations Management
+"Kindergarten Teachers, Except Special Education",25-2012,62680.0,108870.0,3,Business & Operations Management
+"Elementary School Teachers, Except Special Education",25-2021,63970.0,1388390.0,3,Business & Operations Management
+"Middle School Teachers, Except Special and Career/Technical Education",25-2022,64370.0,620090.0,3,Business & Operations Management
+"Career/Technical Education Teachers, Middle School",25-2023,65030.0,16870.0,3,Business & Operations Management
+"Secondary School Teachers, Except Special and Career/Technical Education",25-2031,72040.0,1065210.0,3,Business & Operations Management
+"Career/Technical Education Teachers, Secondary School",25-2032,66270.0,111420.0,3,Business & Operations Management
+"Special Education Teachers, Preschool",25-2051,64830.0,29510.0,3,Business & Operations Management
+"Special Education Teachers, Middle School",25-2057,66810.0,95200.0,3,Business & Operations Management
+"Special Education Teachers, Secondary School",25-2058,74260.0,163930.0,3,Business & Operations Management
+"Special Education Teachers, All Other",25-2059,76580.0,33930.0,3,Business & Operations Management
+"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",25-3011,61540.0,37310.0,3,Business & Operations Management
+Self-Enrichment Teachers,25-3021,46800.0,332110.0,1,Mid-Wage Financial & Analytical Specialists
+"Substitute Teachers, Short-Term",25-3031,41670.0,524770.0,1,Mid-Wage Financial & Analytical Specialists
+Tutors,25-3041,43350.0,175070.0,3,Business & Operations Management
+Archivists,25-4011,64550.0,7970.0,1,Mid-Wage Financial & Analytical Specialists
+Curators,25-4012,63420.0,12150.0,3,Business & Operations Management
+Museum Technicians and Conservators,25-4013,51440.0,12310.0,1,Mid-Wage Financial & Analytical Specialists
+Librarians and Media Collections Specialists,25-4022,68270.0,133790.0,3,Business & Operations Management
+Library Technicians,25-4031,44580.0,68690.0,1,Mid-Wage Financial & Analytical Specialists
+Farm and Home Management Educators,25-9021,60220.0,8220.0,4,Quantitative/Technical Specialists & Managers
+Instructional Coordinators,25-9031,77440.0,227760.0,3,Business & Operations Management
+"Teaching Assistants, Postsecondary",25-9044,42910.0,164090.0,1,Mid-Wage Financial & Analytical Specialists
+Art Directors,27-1011,114850.0,53070.0,3,Business & Operations Management
+Craft Artists,27-1012,46080.0,4580.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Fine Artists, Including Painters, Sculptors, and Illustrators",27-1013,55490.0,11220.0,0,Niche/Specialized Lower-Mid Wage Roles
+Special Effects Artists and Animators,27-1014,102030.0,19970.0,1,Mid-Wage Financial & Analytical Specialists
+Commercial and Industrial Designers,27-1021,83910.0,33490.0,1,Mid-Wage Financial & Analytical Specialists
+Fashion Designers,27-1022,80960.0,21450.0,3,Business & Operations Management
+Floral Designers,27-1023,37360.0,40590.0,1,Mid-Wage Financial & Analytical Specialists
+Graphic Designers,27-1024,62960.0,197830.0,1,Mid-Wage Financial & Analytical Specialists
+Interior Designers,27-1025,67190.0,71500.0,3,Business & Operations Management
+Merchandise Displayers and Window Trimmers,27-1026,39390.0,165220.0,0,Niche/Specialized Lower-Mid Wage Roles
+Set and Exhibit Designers,27-1027,75240.0,10630.0,1,Mid-Wage Financial & Analytical Specialists
+Producers and Directors,27-2012,90360.0,143120.0,3,Business & Operations Management
+Athletes and Sports Competitors,27-2021,66710.0,15070.0,1,Mid-Wage Financial & Analytical Specialists
+Coaches and Scouts,27-2022,47320.0,248950.0,3,Business & Operations Management
+"Umpires, Referees, and Other Sports Officials",27-2023,40710.0,15780.0,1,Mid-Wage Financial & Analytical Specialists
+Choreographers,27-2032,55310.0,2860.0,1,Mid-Wage Financial & Analytical Specialists
+Music Directors and Composers,27-2041,73710.0,12540.0,1,Mid-Wage Financial & Analytical Specialists
+Broadcast Announcers and Radio Disc Jockeys,27-3011,47340.0,21240.0,1,Mid-Wage Financial & Analytical Specialists
+"News Analysts, Reporters, and Journalists",27-3023,62200.0,39250.0,3,Business & Operations Management
+Public Relations Specialists,27-3031,74750.0,283380.0,3,Business & Operations Management
+Editors,27-3041,77920.0,91690.0,3,Business & Operations Management
+Technical Writers,27-3042,90390.0,45500.0,3,Business & Operations Management
+Writers and Authors,27-3043,76910.0,47940.0,3,Business & Operations Management
+Interpreters and Translators,27-3091,60170.0,52060.0,3,Business & Operations Management
+Court Reporters and Simultaneous Captioners,27-3092,72420.0,12870.0,0,Niche/Specialized Lower-Mid Wage Roles
+Audio and Video Technicians,27-4011,58100.0,70230.0,1,Mid-Wage Financial & Analytical Specialists
+Broadcast Technicians,27-4012,59570.0,21110.0,1,Mid-Wage Financial & Analytical Specialists
+Sound Engineering Technicians,27-4014,73130.0,13080.0,1,Mid-Wage Financial & Analytical Specialists
+Photographers,27-4021,44660.0,51760.0,1,Mid-Wage Financial & Analytical Specialists
+"Camera Operators, Television, Video, and Film",27-4031,74990.0,21550.0,1,Mid-Wage Financial & Analytical Specialists
+Film and Video Editors,27-4032,75420.0,25610.0,1,Mid-Wage Financial & Analytical Specialists
+Chiropractors,29-1011,79200.0,39630.0,3,Business & Operations Management
+"Dentists, General",29-1021,170950.0,124390.0,4,Quantitative/Technical Specialists & Managers
+Oral and Maxillofacial Surgeons,29-1022,352220.0,4910.0,2,Elite High-Wage Executives & Medical Specialists
+Orthodontists,29-1023,289140.0,6210.0,2,Elite High-Wage Executives & Medical Specialists
+Prosthodontists,29-1024,311180.0,870.0,2,Elite High-Wage Executives & Medical Specialists
+Dietitians and Nutritionists,29-1031,76400.0,77570.0,4,Quantitative/Technical Specialists & Managers
+Optometrists,29-1041,136570.0,42790.0,4,Quantitative/Technical Specialists & Managers
+Pharmacists,29-1051,140910.0,321970.0,4,Quantitative/Technical Specialists & Managers
+Physician Assistants,29-1071,135880.0,162150.0,4,Quantitative/Technical Specialists & Managers
+Podiatrists,29-1081,160300.0,9680.0,4,Quantitative/Technical Specialists & Managers
+Occupational Therapists,29-1122,100330.0,162450.0,3,Business & Operations Management
+Physical Therapists,29-1123,102760.0,267330.0,3,Business & Operations Management
+Radiation Therapists,29-1124,105310.0,17070.0,1,Mid-Wage Financial & Analytical Specialists
+Recreational Therapists,29-1125,61960.0,14930.0,3,Business & Operations Management
+Respiratory Therapists,29-1126,82280.0,139790.0,3,Business & Operations Management
+Speech-Language Pathologists,29-1127,97870.0,183390.0,3,Business & Operations Management
+Exercise Physiologists,29-1128,59460.0,8560.0,4,Quantitative/Technical Specialists & Managers
+"Therapists, All Other",29-1129,77930.0,22640.0,3,Business & Operations Management
+Veterinarians,29-1131,130100.0,83900.0,4,Quantitative/Technical Specialists & Managers
+Registered Nurses,29-1141,97550.0,3379720.0,3,Business & Operations Management
+Nurse Anesthetists,29-1151,236590.0,51840.0,2,Elite High-Wage Executives & Medical Specialists
+Nurse Midwives,29-1161,134040.0,7920.0,4,Quantitative/Technical Specialists & Managers
+Nurse Practitioners,29-1171,132300.0,323040.0,4,Quantitative/Technical Specialists & Managers
+Audiologists,29-1181,95780.0,13660.0,4,Quantitative/Technical Specialists & Managers
+Anesthesiologists,29-1211,391490.0,38760.0,2,Elite High-Wage Executives & Medical Specialists
+Dermatologists,29-1213,328730.0,11370.0,2,Elite High-Wage Executives & Medical Specialists
+Emergency Medicine Physicians,29-1214,335550.0,32880.0,2,Elite High-Wage Executives & Medical Specialists
+Family Medicine Physicians,29-1215,244180.0,107510.0,2,Elite High-Wage Executives & Medical Specialists
+General Internal Medicine Physicians,29-1216,256560.0,67150.0,2,Elite High-Wage Executives & Medical Specialists
+Neurologists,29-1217,248560.0,10590.0,2,Elite High-Wage Executives & Medical Specialists
+Obstetricians and Gynecologists,29-1218,292910.0,21260.0,2,Elite High-Wage Executives & Medical Specialists
+"Pediatricians, General",29-1221,210040.0,39390.0,2,Elite High-Wage Executives & Medical Specialists
+"Physicians, Pathologists",29-1222,312400.0,11110.0,2,Elite High-Wage Executives & Medical Specialists
+Psychiatrists,29-1223,281870.0,27980.0,2,Elite High-Wage Executives & Medical Specialists
+Radiologists,29-1224,420860.0,26770.0,2,Elite High-Wage Executives & Medical Specialists
+"Physicians, All Other",29-1229,265930.0,342720.0,2,Elite High-Wage Executives & Medical Specialists
+"Ophthalmologists, Except Pediatric",29-1241,300080.0,8950.0,2,Elite High-Wage Executives & Medical Specialists
+Acupuncturists,29-1291,76040.0,7830.0,1,Mid-Wage Financial & Analytical Specialists
+Dental Hygienists,29-1292,98100.0,222740.0,1,Mid-Wage Financial & Analytical Specialists
+"Healthcare Diagnosing or Treating Practitioners, All Other",29-1299,115210.0,28630.0,4,Quantitative/Technical Specialists & Managers
+Cardiovascular Technologists and Technicians,29-2031,74310.0,62960.0,3,Business & Operations Management
+Diagnostic Medical Sonographers,29-2032,96590.0,90160.0,1,Mid-Wage Financial & Analytical Specialists
+Nuclear Medicine Technologists,29-2033,101370.0,17080.0,4,Quantitative/Technical Specialists & Managers
+Radiologic Technologists and Technicians,29-2034,80110.0,230490.0,1,Mid-Wage Financial & Analytical Specialists
+Magnetic Resonance Imaging Technologists,29-2035,95480.0,43390.0,1,Mid-Wage Financial & Analytical Specialists
+Medical Dosimetrists,29-2036,147470.0,3410.0,4,Quantitative/Technical Specialists & Managers
+Paramedics,29-2043,60600.0,100610.0,1,Mid-Wage Financial & Analytical Specialists
+Dietetic Technicians,29-2051,37640.0,31560.0,1,Mid-Wage Financial & Analytical Specialists
+Pharmacy Technicians,29-2052,45750.0,471680.0,1,Mid-Wage Financial & Analytical Specialists
+Psychiatric Technicians,29-2053,45130.0,156960.0,3,Business & Operations Management
+Surgical Technologists,29-2055,64650.0,117460.0,1,Mid-Wage Financial & Analytical Specialists
+Veterinary Technologists and Technicians,29-2056,47380.0,129140.0,1,Mid-Wage Financial & Analytical Specialists
+Ophthalmic Medical Technicians,29-2057,45570.0,71010.0,1,Mid-Wage Financial & Analytical Specialists
+Licensed Practical and Licensed Vocational Nurses,29-2061,64400.0,648410.0,3,Business & Operations Management
+Medical Records Specialists,29-2072,51140.0,194720.0,1,Mid-Wage Financial & Analytical Specialists
+"Opticians, Dispensing",29-2081,47260.0,73530.0,1,Mid-Wage Financial & Analytical Specialists
+Orthotists and Prosthetists,29-2091,81110.0,9390.0,4,Quantitative/Technical Specialists & Managers
+Hearing Aid Specialists,29-2092,65160.0,11270.0,1,Mid-Wage Financial & Analytical Specialists
+"Health Technologists and Technicians, All Other",29-2099,50290.0,182610.0,3,Business & Operations Management
+Athletic Trainers,29-9091,62520.0,30500.0,3,Business & Operations Management
+Genetic Counselors,29-9092,100040.0,3740.0,4,Quantitative/Technical Specialists & Managers
+Surgical Assistants,29-9093,66800.0,22270.0,1,Mid-Wage Financial & Analytical Specialists
+"Healthcare Practitioners and Technical Workers, All Other",29-9099,65790.0,35010.0,3,Business & Operations Management
+Nursing Assistants,31-1131,42260.0,1448910.0,1,Mid-Wage Financial & Analytical Specialists
+Orderlies,31-1132,38290.0,52440.0,0,Niche/Specialized Lower-Mid Wage Roles
+Psychiatric Aides,31-1133,44910.0,35520.0,1,Mid-Wage Financial & Analytical Specialists
+Occupational Therapy Assistants,31-2011,72300.0,51290.0,1,Mid-Wage Financial & Analytical Specialists
+Occupational Therapy Aides,31-2012,39160.0,4310.0,1,Mid-Wage Financial & Analytical Specialists
+Physical Therapist Assistants,31-2021,68380.0,112430.0,1,Mid-Wage Financial & Analytical Specialists
+Physical Therapist Aides,31-2022,35240.0,48150.0,1,Mid-Wage Financial & Analytical Specialists
+Massage Therapists,31-9011,58450.0,98790.0,0,Niche/Specialized Lower-Mid Wage Roles
+Dental Assistants,31-9091,48070.0,387790.0,1,Mid-Wage Financial & Analytical Specialists
+Medical Assistants,31-9092,45690.0,817870.0,3,Business & Operations Management
+Medical Equipment Preparers,31-9093,47700.0,77420.0,1,Mid-Wage Financial & Analytical Specialists
+Medical Transcriptionists,31-9094,40410.0,41550.0,1,Mid-Wage Financial & Analytical Specialists
+Pharmacy Aides,31-9095,37680.0,39530.0,1,Mid-Wage Financial & Analytical Specialists
+Veterinary Assistants and Laboratory Animal Caretakers,31-9096,38150.0,126580.0,1,Mid-Wage Financial & Analytical Specialists
+Phlebotomists,31-9097,45230.0,143540.0,1,Mid-Wage Financial & Analytical Specialists
+"Healthcare Support Workers, All Other",31-9099,48430.0,109740.0,1,Mid-Wage Financial & Analytical Specialists
+First-Line Supervisors of Correctional Officers,33-1011,77970.0,53380.0,3,Business & Operations Management
+First-Line Supervisors of Police and Detectives,33-1012,106040.0,154610.0,3,Business & Operations Management
+First-Line Supervisors of Firefighting and Prevention Workers,33-1021,93530.0,99140.0,3,Business & Operations Management
+First-Line Supervisors of Security Workers,33-1091,55940.0,81480.0,3,Business & Operations Management
+Firefighters,33-2011,59280.0,345990.0,1,Mid-Wage Financial & Analytical Specialists
+Fire Inspectors and Investigators,33-2021,75920.0,13800.0,1,Mid-Wage Financial & Analytical Specialists
+Forest Fire Inspectors and Prevention Specialists,33-2022,56870.0,2780.0,1,Mid-Wage Financial & Analytical Specialists
+Bailiffs,33-3011,56600.0,17310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Correctional Officers and Jailers,33-3012,58940.0,380500.0,3,Business & Operations Management
+Detectives and Criminal Investigators,33-3021,93790.0,114430.0,3,Business & Operations Management
+Fish and Game Wardens,33-3031,74060.0,5770.0,1,Mid-Wage Financial & Analytical Specialists
+Parking Enforcement Workers,33-3041,46730.0,9050.0,0,Niche/Specialized Lower-Mid Wage Roles
+Police and Sheriff's Patrol Officers,33-3051,76210.0,670520.0,3,Business & Operations Management
+Transit and Railroad Police,33-3052,90230.0,4390.0,1,Mid-Wage Financial & Analytical Specialists
+Animal Control Workers,33-9011,45660.0,12070.0,1,Mid-Wage Financial & Analytical Specialists
+Private Detectives and Investigators,33-9021,51220.0,35580.0,3,Business & Operations Management
+Gambling Surveillance Officers and Gambling Investigators,33-9031,43370.0,9520.0,1,Mid-Wage Financial & Analytical Specialists
+Security Guards,33-9032,38020.0,1283470.0,1,Mid-Wage Financial & Analytical Specialists
+Crossing Guards and Flaggers,33-9091,38100.0,94360.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",33-9092,33580.0,157550.0,1,Mid-Wage Financial & Analytical Specialists
+Transportation Security Screeners,33-9093,66770.0,50290.0,1,Mid-Wage Financial & Analytical Specialists
+School Bus Monitors,33-9094,35100.0,78420.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Protective Service Workers, All Other",33-9099,42540.0,81500.0,1,Mid-Wage Financial & Analytical Specialists
+Chefs and Head Cooks,35-1011,62470.0,200040.0,3,Business & Operations Management
+First-Line Supervisors of Food Preparation and Serving Workers,35-1012,44080.0,1223240.0,1,Mid-Wage Financial & Analytical Specialists
+"Cooks, Fast Food",35-2011,30890.0,641070.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cooks, Institution and Cafeteria",35-2012,37450.0,441050.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cooks, Private Household",35-2013,47940.0,1100.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cooks, Restaurant",35-2014,37390.0,1409890.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cooks, Short Order",35-2015,35880.0,138650.0,0,Niche/Specialized Lower-Mid Wage Roles
+Food Preparation Workers,35-2021,35320.0,893600.0,0,Niche/Specialized Lower-Mid Wage Roles
+Bartenders,35-3011,34340.0,756390.0,1,Mid-Wage Financial & Analytical Specialists
+Fast Food and Counter Workers,35-3023,31200.0,3854050.0,0,Niche/Specialized Lower-Mid Wage Roles
+Waiters and Waitresses,35-3031,35230.0,2270910.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Food Servers, Nonrestaurant",35-3041,35360.0,293900.0,0,Niche/Specialized Lower-Mid Wage Roles
+Dining Room and Cafeteria Attendants and Bartender Helpers,35-9011,33980.0,542750.0,0,Niche/Specialized Lower-Mid Wage Roles
+Dishwashers,35-9021,34810.0,477450.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",35-9031,31200.0,432690.0,0,Niche/Specialized Lower-Mid Wage Roles
+First-Line Supervisors of Housekeeping and Janitorial Workers,37-1011,49100.0,178760.0,1,Mid-Wage Financial & Analytical Specialists
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",37-1012,58430.0,130760.0,1,Mid-Wage Financial & Analytical Specialists
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",37-2011,36840.0,2209760.0,0,Niche/Specialized Lower-Mid Wage Roles
+Maids and Housekeeping Cleaners,37-2012,35510.0,860670.0,0,Niche/Specialized Lower-Mid Wage Roles
+Pest Control Workers,37-2021,45250.0,102620.0,1,Mid-Wage Financial & Analytical Specialists
+Landscaping and Groundskeeping Workers,37-3011,39150.0,952640.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",37-3012,46340.0,27050.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tree Trimmers and Pruners,37-3013,50960.0,55160.0,0,Niche/Specialized Lower-Mid Wage Roles
+First-Line Supervisors of Gambling Services Workers,39-1013,63820.0,26010.0,1,Mid-Wage Financial & Analytical Specialists
+"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",39-1014,48560.0,103190.0,1,Mid-Wage Financial & Analytical Specialists
+First-Line Supervisors of Personal Service Workers,39-1022,48590.0,114110.0,1,Mid-Wage Financial & Analytical Specialists
+Animal Trainers,39-2011,39990.0,18770.0,1,Mid-Wage Financial & Analytical Specialists
+Animal Caretakers,39-2021,35360.0,266910.0,0,Niche/Specialized Lower-Mid Wage Roles
+Gambling Dealers,39-3011,34320.0,83910.0,0,Niche/Specialized Lower-Mid Wage Roles
+Gambling and Sports Book Writers and Runners,39-3012,34980.0,8950.0,0,Niche/Specialized Lower-Mid Wage Roles
+Motion Picture Projectionists,39-3021,38270.0,1480.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Ushers, Lobby Attendants, and Ticket Takers",39-3031,32910.0,121770.0,0,Niche/Specialized Lower-Mid Wage Roles
+Amusement and Recreation Attendants,39-3091,32150.0,397830.0,0,Niche/Specialized Lower-Mid Wage Roles
+Costume Attendants,39-3092,50400.0,6510.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Locker Room, Coatroom, and Dressing Room Attendants",39-3093,36300.0,15560.0,0,Niche/Specialized Lower-Mid Wage Roles
+Embalmers,39-4011,58780.0,3890.0,1,Mid-Wage Financial & Analytical Specialists
+Funeral Attendants,39-4021,35680.0,31090.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Morticians, Undertakers, and Funeral Arrangers",39-4031,55010.0,25100.0,1,Mid-Wage Financial & Analytical Specialists
+Barbers,39-5011,38210.0,15000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Hairdressers, Hairstylists, and Cosmetologists",39-5012,35790.0,305710.0,1,Mid-Wage Financial & Analytical Specialists
+"Makeup Artists, Theatrical and Performance",39-5091,97150.0,2340.0,1,Mid-Wage Financial & Analytical Specialists
+Manicurists and Pedicurists,39-5092,35760.0,152770.0,0,Niche/Specialized Lower-Mid Wage Roles
+Shampooers,39-5093,32600.0,8070.0,0,Niche/Specialized Lower-Mid Wage Roles
+Skincare Specialists,39-5094,45330.0,72890.0,1,Mid-Wage Financial & Analytical Specialists
+Baggage Porters and Bellhops,39-6011,37080.0,28510.0,0,Niche/Specialized Lower-Mid Wage Roles
+Concierges,39-6012,38950.0,49240.0,1,Mid-Wage Financial & Analytical Specialists
+Childcare Workers,39-9011,34980.0,518910.0,1,Mid-Wage Financial & Analytical Specialists
+Exercise Trainers and Group Fitness Instructors,39-9031,47160.0,322930.0,1,Mid-Wage Financial & Analytical Specialists
+Recreation Workers,39-9032,36560.0,331490.0,1,Mid-Wage Financial & Analytical Specialists
+Residential Advisors,39-9041,42240.0,84760.0,1,Mid-Wage Financial & Analytical Specialists
+First-Line Supervisors of Retail Sales Workers,41-1011,48520.0,1121800.0,1,Mid-Wage Financial & Analytical Specialists
+First-Line Supervisors of Non-Retail Sales Workers,41-1012,87520.0,214390.0,3,Business & Operations Management
+Cashiers,41-2011,32880.0,3089410.0,0,Niche/Specialized Lower-Mid Wage Roles
+Gambling Change Persons and Booth Cashiers,41-2012,36220.0,21530.0,0,Niche/Specialized Lower-Mid Wage Roles
+Counter and Rental Clerks,41-2021,41300.0,400810.0,1,Mid-Wage Financial & Analytical Specialists
+Parts Salespersons,41-2022,38630.0,270070.0,1,Mid-Wage Financial & Analytical Specialists
+Retail Salespersons,41-2031,35410.0,3897860.0,1,Mid-Wage Financial & Analytical Specialists
+Advertising Sales Agents,41-3011,64820.0,91700.0,1,Mid-Wage Financial & Analytical Specialists
+Insurance Sales Agents,41-3021,62280.0,479100.0,1,Mid-Wage Financial & Analytical Specialists
+"Securities, Commodities, and Financial Services Sales Agents",41-3031,78660.0,489570.0,1,Mid-Wage Financial & Analytical Specialists
+Travel Agents,41-3041,50160.0,55110.0,1,Mid-Wage Financial & Analytical Specialists
+"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",41-3091,69990.0,1256010.0,1,Mid-Wage Financial & Analytical Specialists
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",41-4011,104920.0,284800.0,3,Business & Operations Management
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",41-4012,72080.0,1238190.0,1,Mid-Wage Financial & Analytical Specialists
+Demonstrators and Product Promoters,41-9011,39320.0,64520.0,1,Mid-Wage Financial & Analytical Specialists
+Models,41-9012,48470.0,3780.0,0,Niche/Specialized Lower-Mid Wage Roles
+Real Estate Brokers,41-9021,73220.0,46100.0,3,Business & Operations Management
+Real Estate Sales Agents,41-9022,52830.0,193370.0,1,Mid-Wage Financial & Analytical Specialists
+Sales Engineers,41-9031,124900.0,51790.0,4,Quantitative/Technical Specialists & Managers
+Telemarketers,41-9041,35450.0,58430.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",41-9091,41380.0,2760.0,0,Niche/Specialized Lower-Mid Wage Roles
+First-Line Supervisors of Office and Administrative Support Workers,43-1011,69500.0,1436680.0,3,Business & Operations Management
+"Switchboard Operators, Including Answering Service",43-2011,38630.0,34280.0,0,Niche/Specialized Lower-Mid Wage Roles
+Telephone Operators,43-2021,41740.0,3430.0,0,Niche/Specialized Lower-Mid Wage Roles
+Bill and Account Collectors,43-3011,47030.0,158830.0,1,Mid-Wage Financial & Analytical Specialists
+Billing and Posting Clerks,43-3021,48500.0,404060.0,1,Mid-Wage Financial & Analytical Specialists
+"Bookkeeping, Accounting, and Auditing Clerks",43-3031,50670.0,1373680.0,1,Mid-Wage Financial & Analytical Specialists
+Gambling Cage Workers,43-3041,37580.0,14430.0,0,Niche/Specialized Lower-Mid Wage Roles
+Payroll and Timekeeping Clerks,43-3051,58260.0,153140.0,1,Mid-Wage Financial & Analytical Specialists
+Procurement Clerks,43-3061,50580.0,55810.0,3,Business & Operations Management
+Tellers,43-3071,43030.0,329480.0,1,Mid-Wage Financial & Analytical Specialists
+Brokerage Clerks,43-4011,65750.0,35940.0,1,Mid-Wage Financial & Analytical Specialists
+Correspondence Clerks,43-4021,46800.0,4290.0,1,Mid-Wage Financial & Analytical Specialists
+"Court, Municipal, and License Clerks",43-4031,48700.0,179750.0,1,Mid-Wage Financial & Analytical Specialists
+"Credit Authorizers, Checkers, and Clerks",43-4041,50080.0,12030.0,1,Mid-Wage Financial & Analytical Specialists
+Customer Service Representatives,43-4051,44770.0,2595750.0,1,Mid-Wage Financial & Analytical Specialists
+"Eligibility Interviewers, Government Programs",43-4061,54210.0,154800.0,1,Mid-Wage Financial & Analytical Specialists
+File Clerks,43-4071,43600.0,73440.0,1,Mid-Wage Financial & Analytical Specialists
+"Hotel, Motel, and Resort Desk Clerks",43-4081,35070.0,261420.0,1,Mid-Wage Financial & Analytical Specialists
+"Interviewers, Except Eligibility and Loan",43-4111,45920.0,148060.0,1,Mid-Wage Financial & Analytical Specialists
+"Library Assistants, Clerical",43-4121,36910.0,85520.0,0,Niche/Specialized Lower-Mid Wage Roles
+Loan Interviewers and Clerks,43-4131,50020.0,164790.0,3,Business & Operations Management
+New Accounts Clerks,43-4141,47670.0,36860.0,1,Mid-Wage Financial & Analytical Specialists
+Order Clerks,43-4151,46170.0,75200.0,1,Mid-Wage Financial & Analytical Specialists
+"Human Resources Assistants, Except Payroll and Timekeeping",43-4161,50610.0,90220.0,1,Mid-Wage Financial & Analytical Specialists
+Receptionists and Information Clerks,43-4171,38010.0,910180.0,1,Mid-Wage Financial & Analytical Specialists
+Reservation and Transportation Ticket Agents and Travel Clerks,43-4181,44390.0,118710.0,1,Mid-Wage Financial & Analytical Specialists
+Cargo and Freight Agents,43-5011,52260.0,97670.0,1,Mid-Wage Financial & Analytical Specialists
+Couriers and Messengers,43-5021,39200.0,68640.0,0,Niche/Specialized Lower-Mid Wage Roles
+Public Safety Telecommunicators,43-5031,53040.0,102500.0,1,Mid-Wage Financial & Analytical Specialists
+"Dispatchers, Except Police, Fire, and Ambulance",43-5032,50340.0,202810.0,1,Mid-Wage Financial & Analytical Specialists
+"Meter Readers, Utilities",43-5041,48150.0,19430.0,0,Niche/Specialized Lower-Mid Wage Roles
+Postal Service Clerks,43-5051,62130.0,73720.0,0,Niche/Specialized Lower-Mid Wage Roles
+Postal Service Mail Carriers,43-5052,60550.0,328820.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",43-5053,58470.0,105200.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Production, Planning, and Expediting Clerks",43-5061,59650.0,390160.0,1,Mid-Wage Financial & Analytical Specialists
+"Shipping, Receiving, and Inventory Clerks",43-5071,45260.0,816870.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",43-5111,46380.0,53300.0,1,Mid-Wage Financial & Analytical Specialists
+Executive Secretaries and Executive Administrative Assistants,43-6011,76590.0,459910.0,1,Mid-Wage Financial & Analytical Specialists
+Legal Secretaries and Administrative Assistants,43-6012,55570.0,156280.0,1,Mid-Wage Financial & Analytical Specialists
+Medical Secretaries and Administrative Assistants,43-6013,45930.0,961610.0,1,Mid-Wage Financial & Analytical Specialists
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",43-6014,47540.0,1706790.0,1,Mid-Wage Financial & Analytical Specialists
+Data Entry Keyers,43-9021,41340.0,127080.0,0,Niche/Specialized Lower-Mid Wage Roles
+Word Processors and Typists,43-9022,49280.0,35010.0,0,Niche/Specialized Lower-Mid Wage Roles
+Desktop Publishers,43-9031,55290.0,3350.0,1,Mid-Wage Financial & Analytical Specialists
+Insurance Claims and Policy Processing Clerks,43-9041,49230.0,214260.0,1,Mid-Wage Financial & Analytical Specialists
+"Mail Clerks and Mail Machine Operators, Except Postal Service",43-9051,39280.0,55230.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Office Clerks, General",43-9061,45010.0,2464940.0,1,Mid-Wage Financial & Analytical Specialists
+"Office Machine Operators, Except Computer",43-9071,40960.0,25130.0,0,Niche/Specialized Lower-Mid Wage Roles
+Proofreaders and Copy Markers,43-9081,51120.0,4580.0,0,Niche/Specialized Lower-Mid Wage Roles
+Statistical Assistants,43-9111,50330.0,4710.0,4,Quantitative/Technical Specialists & Managers
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",45-1011,59320.0,27960.0,1,Mid-Wage Financial & Analytical Specialists
+Agricultural Inspectors,45-2011,49940.0,14410.0,1,Mid-Wage Financial & Analytical Specialists
+Animal Breeders,45-2021,51130.0,1330.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Graders and Sorters, Agricultural Products",45-2041,35730.0,25180.0,0,Niche/Specialized Lower-Mid Wage Roles
+Agricultural Equipment Operators,45-2091,41730.0,28500.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",45-2092,35660.0,265500.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",45-2093,36670.0,32810.0,0,Niche/Specialized Lower-Mid Wage Roles
+Forest and Conservation Workers,45-4011,43680.0,6050.0,0,Niche/Specialized Lower-Mid Wage Roles
+Fallers,45-4021,52100.0,3130.0,0,Niche/Specialized Lower-Mid Wage Roles
+Logging Equipment Operators,45-4022,49740.0,21060.0,0,Niche/Specialized Lower-Mid Wage Roles
+Log Graders and Scalers,45-4023,46330.0,3070.0,0,Niche/Specialized Lower-Mid Wage Roles
+First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,79920.0,812210.0,1,Mid-Wage Financial & Analytical Specialists
+Boilermakers,47-2011,76410.0,10190.0,0,Niche/Specialized Lower-Mid Wage Roles
+Brickmasons and Blockmasons,47-2021,62120.0,52550.0,0,Niche/Specialized Lower-Mid Wage Roles
+Stonemasons,47-2022,57390.0,7820.0,0,Niche/Specialized Lower-Mid Wage Roles
+Carpenters,47-2031,60580.0,670090.0,1,Mid-Wage Financial & Analytical Specialists
+Carpet Installers,47-2041,50340.0,13780.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",47-2042,56460.0,23640.0,0,Niche/Specialized Lower-Mid Wage Roles
+Floor Sanders and Finishers,47-2043,50440.0,3720.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tile and Stone Setters,47-2044,55690.0,35850.0,0,Niche/Specialized Lower-Mid Wage Roles
+Cement Masons and Concrete Finishers,47-2051,57020.0,206170.0,0,Niche/Specialized Lower-Mid Wage Roles
+Terrazzo Workers and Finishers,47-2053,76170.0,1180.0,0,Niche/Specialized Lower-Mid Wage Roles
+Construction Laborers,47-2061,47120.0,1096780.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Paving, Surfacing, and Tamping Equipment Operators",47-2071,53340.0,41820.0,0,Niche/Specialized Lower-Mid Wage Roles
+Pile Driver Operators,47-2072,73300.0,2310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Operating Engineers and Other Construction Equipment Operators,47-2073,59850.0,478090.0,0,Niche/Specialized Lower-Mid Wage Roles
+Drywall and Ceiling Tile Installers,47-2081,58930.0,83080.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tapers,47-2082,68270.0,12840.0,0,Niche/Specialized Lower-Mid Wage Roles
+Electricians,47-2111,63190.0,757220.0,1,Mid-Wage Financial & Analytical Specialists
+Glaziers,47-2121,57080.0,58480.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Insulation Workers, Floor, Ceiling, and Wall",47-2131,49120.0,44440.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Insulation Workers, Mechanical",47-2132,58340.0,25660.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Painters, Construction and Maintenance",47-2141,49400.0,225190.0,0,Niche/Specialized Lower-Mid Wage Roles
+Paperhangers,47-2142,52140.0,1570.0,0,Niche/Specialized Lower-Mid Wage Roles
+Pipelayers,47-2151,49000.0,33050.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Plumbers, Pipefitters, and Steamfitters",47-2152,63800.0,465840.0,0,Niche/Specialized Lower-Mid Wage Roles
+Plasterers and Stucco Masons,47-2161,57660.0,19310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Reinforcing Iron and Rebar Workers,47-2171,58970.0,13800.0,0,Niche/Specialized Lower-Mid Wage Roles
+Roofers,47-2181,55440.0,135490.0,0,Niche/Specialized Lower-Mid Wage Roles
+Sheet Metal Workers,47-2211,61800.0,119770.0,0,Niche/Specialized Lower-Mid Wage Roles
+Structural Iron and Steel Workers,47-2221,62780.0,68380.0,0,Niche/Specialized Lower-Mid Wage Roles
+Solar Photovoltaic Installers,47-2231,53140.0,31350.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",47-3011,47550.0,14170.0,0,Niche/Specialized Lower-Mid Wage Roles
+Helpers--Carpenters,47-3012,43780.0,21680.0,0,Niche/Specialized Lower-Mid Wage Roles
+Helpers--Electricians,47-3013,42670.0,63630.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",47-3014,40470.0,7490.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",47-3015,42360.0,44330.0,0,Niche/Specialized Lower-Mid Wage Roles
+Helpers--Roofers,47-3016,44160.0,6030.0,0,Niche/Specialized Lower-Mid Wage Roles
+Construction and Building Inspectors,47-4011,74690.0,146720.0,1,Mid-Wage Financial & Analytical Specialists
+Elevator and Escalator Installers and Repairers,47-4021,109910.0,23790.0,1,Mid-Wage Financial & Analytical Specialists
+Fence Erectors,47-4031,47980.0,24480.0,0,Niche/Specialized Lower-Mid Wage Roles
+Hazardous Materials Removal Workers,47-4041,49450.0,51710.0,0,Niche/Specialized Lower-Mid Wage Roles
+Highway Maintenance Workers,47-4051,50260.0,154960.0,0,Niche/Specialized Lower-Mid Wage Roles
+Rail-Track Laying and Maintenance Equipment Operators,47-4061,70070.0,19580.0,0,Niche/Specialized Lower-Mid Wage Roles
+Septic Tank Servicers and Sewer Pipe Cleaners,47-4071,49880.0,30650.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Derrick Operators, Oil and Gas",47-5011,58620.0,10590.0,1,Mid-Wage Financial & Analytical Specialists
+"Rotary Drill Operators, Oil and Gas",47-5012,67890.0,12600.0,1,Mid-Wage Financial & Analytical Specialists
+"Service Unit Operators, Oil and Gas",47-5013,58160.0,43140.0,1,Mid-Wage Financial & Analytical Specialists
+"Excavating and Loading Machine and Dragline Operators, Surface Mining",47-5022,57430.0,34480.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Earth Drillers, Except Oil and Gas",47-5023,60190.0,19450.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Explosives Workers, Ordnance Handling Experts, and Blasters",47-5032,61390.0,5100.0,1,Mid-Wage Financial & Analytical Specialists
+Continuous Mining Machine Operators,47-5041,61810.0,14000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Roof Bolters, Mining",47-5043,78540.0,2160.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Loading and Moving Machine Operators, Underground Mining",47-5044,74500.0,5930.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Rock Splitters, Quarry",47-5051,48740.0,3320.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Roustabouts, Oil and Gas",47-5071,46960.0,44970.0,0,Niche/Specialized Lower-Mid Wage Roles
+Helpers--Extraction Workers,47-5081,47730.0,6700.0,0,Niche/Specialized Lower-Mid Wage Roles
+"First-Line Supervisors of Mechanics, Installers, and Repairers",49-1011,79860.0,617500.0,3,Business & Operations Management
+"Computer, Automated Teller, and Office Machine Repairers",49-2011,47810.0,65600.0,1,Mid-Wage Financial & Analytical Specialists
+"Radio, Cellular, and Tower Equipment Installers and Repairers",49-2021,63520.0,11140.0,1,Mid-Wage Financial & Analytical Specialists
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",49-2022,63890.0,140920.0,1,Mid-Wage Financial & Analytical Specialists
+Avionics Technicians,49-2091,82280.0,18830.0,1,Mid-Wage Financial & Analytical Specialists
+"Electric Motor, Power Tool, and Related Repairers",49-2092,56210.0,14450.0,1,Mid-Wage Financial & Analytical Specialists
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",49-2093,84890.0,6940.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",49-2094,74090.0,65010.0,1,Mid-Wage Financial & Analytical Specialists
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",49-2095,103020.0,20720.0,1,Mid-Wage Financial & Analytical Specialists
+"Electronic Equipment Installers and Repairers, Motor Vehicles",49-2096,48420.0,8550.0,0,Niche/Specialized Lower-Mid Wage Roles
+Audiovisual Equipment Installers and Repairers,49-2097,52600.0,19780.0,0,Niche/Specialized Lower-Mid Wage Roles
+Security and Fire Alarm Systems Installers,49-2098,60070.0,86340.0,1,Mid-Wage Financial & Analytical Specialists
+Aircraft Mechanics and Service Technicians,49-3011,79870.0,138090.0,1,Mid-Wage Financial & Analytical Specialists
+Automotive Body and Related Repairers,49-3021,54890.0,149310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Automotive Glass Installers and Repairers,49-3022,47630.0,20310.0,0,Niche/Specialized Lower-Mid Wage Roles
+Automotive Service Technicians and Mechanics,49-3023,50620.0,704640.0,1,Mid-Wage Financial & Analytical Specialists
+Bus and Truck Mechanics and Diesel Engine Specialists,49-3031,61770.0,289960.0,0,Niche/Specialized Lower-Mid Wage Roles
+Farm Equipment Mechanics and Service Technicians,49-3041,56550.0,37870.0,1,Mid-Wage Financial & Analytical Specialists
+"Mobile Heavy Equipment Mechanics, Except Engines",49-3042,65510.0,176600.0,1,Mid-Wage Financial & Analytical Specialists
+Rail Car Repairers,49-3043,67530.0,21350.0,0,Niche/Specialized Lower-Mid Wage Roles
+Motorboat Mechanics and Service Technicians,49-3051,57550.0,23220.0,0,Niche/Specialized Lower-Mid Wage Roles
+Motorcycle Mechanics,49-3052,48580.0,13510.0,0,Niche/Specialized Lower-Mid Wage Roles
+Outdoor Power Equipment and Other Small Engine Mechanics,49-3053,47880.0,36060.0,0,Niche/Specialized Lower-Mid Wage Roles
+Bicycle Repairers,49-3091,42780.0,12170.0,0,Niche/Specialized Lower-Mid Wage Roles
+Recreational Vehicle Service Technicians,49-3092,52000.0,17430.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tire Repairers and Changers,49-3093,37710.0,108410.0,0,Niche/Specialized Lower-Mid Wage Roles
+Mechanical Door Repairers,49-9011,55720.0,27120.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Control and Valve Installers and Repairers, Except Mechanical Door",49-9012,74340.0,48240.0,1,Mid-Wage Financial & Analytical Specialists
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",49-9021,61010.0,409670.0,1,Mid-Wage Financial & Analytical Specialists
+Home Appliance Repairers,49-9031,50990.0,32150.0,1,Mid-Wage Financial & Analytical Specialists
+Industrial Machinery Mechanics,49-9041,64520.0,439640.0,1,Mid-Wage Financial & Analytical Specialists
+"Maintenance Workers, Machinery",49-9043,60850.0,60020.0,0,Niche/Specialized Lower-Mid Wage Roles
+Millwrights,49-9044,65700.0,40330.0,1,Mid-Wage Financial & Analytical Specialists
+"Refractory Materials Repairers, Except Brickmasons",49-9045,61290.0,1080.0,0,Niche/Specialized Lower-Mid Wage Roles
+Electrical Power-Line Installers and Repairers,49-9051,95320.0,131070.0,1,Mid-Wage Financial & Analytical Specialists
+Telecommunications Line Installers and Repairers,49-9052,74330.0,97720.0,0,Niche/Specialized Lower-Mid Wage Roles
+Camera and Photographic Equipment Repairers,49-9061,52720.0,1650.0,0,Niche/Specialized Lower-Mid Wage Roles
+Medical Equipment Repairers,49-9062,61660.0,65990.0,0,Niche/Specialized Lower-Mid Wage Roles
+Musical Instrument Repairers and Tuners,49-9063,46420.0,5380.0,0,Niche/Specialized Lower-Mid Wage Roles
+Watch and Clock Repairers,49-9064,67230.0,1310.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Maintenance and Repair Workers, General",49-9071,49590.0,1529700.0,1,Mid-Wage Financial & Analytical Specialists
+Wind Turbine Service Technicians,49-9081,64120.0,9980.0,1,Mid-Wage Financial & Analytical Specialists
+"Coin, Vending, and Amusement Machine Servicers and Repairers",49-9091,47450.0,26410.0,0,Niche/Specialized Lower-Mid Wage Roles
+Commercial Divers,49-9092,72990.0,3450.0,1,Mid-Wage Financial & Analytical Specialists
+Locksmiths and Safe Repairers,49-9094,51320.0,15040.0,0,Niche/Specialized Lower-Mid Wage Roles
+Manufactured Building and Mobile Home Installers,49-9095,45990.0,3020.0,1,Mid-Wage Financial & Analytical Specialists
+Riggers,49-9096,62640.0,22530.0,0,Niche/Specialized Lower-Mid Wage Roles
+Signal and Track Switch Repairers,49-9097,92460.0,8720.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Helpers--Installation, Maintenance, and Repair Workers",49-9098,39630.0,95580.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Installation, Maintenance, and Repair Workers, All Other",49-9099,49230.0,176300.0,1,Mid-Wage Financial & Analytical Specialists
+First-Line Supervisors of Production and Operating Workers,51-1011,74450.0,673430.0,3,Business & Operations Management
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",51-2011,65380.0,34020.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Coil Winders, Tapers, and Finishers",51-2021,48220.0,12840.0,0,Niche/Specialized Lower-Mid Wage Roles
+Engine and Other Machine Assemblers,51-2031,53710.0,34000.0,0,Niche/Specialized Lower-Mid Wage Roles
+Structural Metal Fabricators and Fitters,51-2041,51330.0,52360.0,0,Niche/Specialized Lower-Mid Wage Roles
+Fiberglass Laminators and Fabricators,51-2051,46880.0,16170.0,0,Niche/Specialized Lower-Mid Wage Roles
+Timing Device Assemblers and Adjusters,51-2061,62620.0,250.0,0,Niche/Specialized Lower-Mid Wage Roles
+Bakers,51-3011,37160.0,236200.0,0,Niche/Specialized Lower-Mid Wage Roles
+Butchers and Meat Cutters,51-3021,40140.0,136430.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Meat, Poultry, and Fish Cutters and Trimmers",51-3022,38300.0,145700.0,0,Niche/Specialized Lower-Mid Wage Roles
+Slaughterers and Meat Packers,51-3023,40130.0,69950.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",51-3091,44810.0,20370.0,0,Niche/Specialized Lower-Mid Wage Roles
+Food Batchmakers,51-3092,42290.0,174520.0,0,Niche/Specialized Lower-Mid Wage Roles
+Food Cooking Machine Operators and Tenders,51-3093,41590.0,31250.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4021,47720.0,60840.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51-4022,49030.0,8930.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",51-4023,50140.0,25250.0,1,Mid-Wage Financial & Analytical Specialists
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",51-4031,46330.0,171200.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4032,49080.0,4680.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4033,46550.0,67000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4034,50620.0,16710.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",51-4035,52800.0,12460.0,0,Niche/Specialized Lower-Mid Wage Roles
+Machinists,51-4041,58750.0,287050.0,0,Niche/Specialized Lower-Mid Wage Roles
+Metal-Refining Furnace Operators and Tenders,51-4051,54430.0,16780.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Pourers and Casters, Metal",51-4052,51810.0,4560.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Model Makers, Metal and Plastic",51-4061,63340.0,2610.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Patternmakers, Metal and Plastic",51-4062,58000.0,1470.0,0,Niche/Specialized Lower-Mid Wage Roles
+Foundry Mold and Coremakers,51-4071,48110.0,12790.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",51-4072,44350.0,150470.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51-4081,47180.0,124590.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tool and Die Makers,51-4111,64050.0,56930.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Welders, Cutters, Solderers, and Brazers",51-4121,53750.0,416210.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",51-4122,47920.0,31600.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",51-4191,48750.0,14000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Layout Workers, Metal and Plastic",51-4192,63870.0,5970.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",51-4193,43960.0,32410.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Tool Grinders, Filers, and Sharpeners",51-4194,50060.0,5600.0,0,Niche/Specialized Lower-Mid Wage Roles
+Prepress Technicians and Workers,51-5111,48690.0,23840.0,0,Niche/Specialized Lower-Mid Wage Roles
+Printing Press Operators,51-5112,45780.0,144260.0,0,Niche/Specialized Lower-Mid Wage Roles
+Print Binding and Finishing Workers,51-5113,42290.0,33180.0,0,Niche/Specialized Lower-Mid Wage Roles
+Laundry and Dry-Cleaning Workers,51-6011,34890.0,198040.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Pressers, Textile, Garment, and Related Materials",51-6021,35060.0,26120.0,0,Niche/Specialized Lower-Mid Wage Roles
+Sewing Machine Operators,51-6031,36670.0,104880.0,0,Niche/Specialized Lower-Mid Wage Roles
+Shoe and Leather Workers and Repairers,51-6041,37800.0,7450.0,0,Niche/Specialized Lower-Mid Wage Roles
+Shoe Machine Operators and Tenders,51-6042,35650.0,3280.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Sewers, Hand",51-6051,36480.0,2190.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Tailors, Dressmakers, and Custom Sewers",51-6052,41640.0,13920.0,0,Niche/Specialized Lower-Mid Wage Roles
+Textile Bleaching and Dyeing Machine Operators and Tenders,51-6061,38180.0,5310.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Textile Cutting Machine Setters, Operators, and Tenders",51-6062,38760.0,9000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",51-6063,39530.0,13030.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",51-6064,38670.0,22020.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",51-6091,46350.0,12850.0,0,Niche/Specialized Lower-Mid Wage Roles
+Fabric and Apparel Patternmakers,51-6092,62750.0,2950.0,1,Mid-Wage Financial & Analytical Specialists
+Upholsterers,51-6093,46340.0,20140.0,0,Niche/Specialized Lower-Mid Wage Roles
+Cabinetmakers and Bench Carpenters,51-7011,46680.0,77170.0,0,Niche/Specialized Lower-Mid Wage Roles
+Furniture Finishers,51-7021,44540.0,14480.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Model Makers, Wood",51-7031,56550.0,280.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Patternmakers, Wood",51-7032,49630.0,220.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Sawing Machine Setters, Operators, and Tenders, Wood",51-7041,42770.0,40850.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",51-7042,43380.0,61420.0,0,Niche/Specialized Lower-Mid Wage Roles
+Nuclear Power Reactor Operators,51-8011,122890.0,5150.0,4,Quantitative/Technical Specialists & Managers
+Power Distributors and Dispatchers,51-8012,106730.0,8520.0,1,Mid-Wage Financial & Analytical Specialists
+Power Plant Operators,51-8013,102040.0,29320.0,1,Mid-Wage Financial & Analytical Specialists
+Stationary Engineers and Boiler Operators,51-8021,78620.0,28250.0,1,Mid-Wage Financial & Analytical Specialists
+Water and Wastewater Treatment Plant and System Operators,51-8031,60020.0,128490.0,1,Mid-Wage Financial & Analytical Specialists
+Chemical Plant and System Operators,51-8091,78120.0,16610.0,1,Mid-Wage Financial & Analytical Specialists
+Gas Plant Operators,51-8092,87820.0,18030.0,1,Mid-Wage Financial & Analytical Specialists
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",51-8093,96710.0,33160.0,1,Mid-Wage Financial & Analytical Specialists
+"Plant and System Operators, All Other",51-8099,62470.0,14080.0,1,Mid-Wage Financial & Analytical Specialists
+Chemical Equipment Operators and Tenders,51-9011,58040.0,139630.0,1,Mid-Wage Financial & Analytical Specialists
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",51-9012,51610.0,60100.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",51-9021,48540.0,26000.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Grinding and Polishing Workers, Hand",51-9022,42660.0,10510.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Mixing and Blending Machine Setters, Operators, and Tenders",51-9023,48990.0,94920.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cutters and Trimmers, Hand",51-9031,38020.0,6060.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cutting and Slicing Machine Setters, Operators, and Tenders",51-9032,46570.0,44980.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",51-9041,45760.0,58770.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",51-9051,48040.0,14280.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Inspectors, Testers, Sorters, Samplers, and Weighers",51-9061,48570.0,597370.0,0,Niche/Specialized Lower-Mid Wage Roles
+Jewelers and Precious Stone and Metal Workers,51-9071,52540.0,22440.0,0,Niche/Specialized Lower-Mid Wage Roles
+Dental Laboratory Technicians,51-9081,49610.0,34410.0,1,Mid-Wage Financial & Analytical Specialists
+Medical Appliance Technicians,51-9082,48030.0,11280.0,1,Mid-Wage Financial & Analytical Specialists
+Ophthalmic Laboratory Technicians,51-9083,39460.0,18660.0,0,Niche/Specialized Lower-Mid Wage Roles
+Packaging and Filling Machine Operators and Tenders,51-9111,43220.0,379060.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Painting, Coating, and Decorating Workers",51-9123,41600.0,7940.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",51-9124,48250.0,158740.0,0,Niche/Specialized Lower-Mid Wage Roles
+Semiconductor Processing Technicians,51-9141,51430.0,31460.0,0,Niche/Specialized Lower-Mid Wage Roles
+Photographic Process Workers and Processing Machine Operators,51-9151,40610.0,4800.0,0,Niche/Specialized Lower-Mid Wage Roles
+Computer Numerically Controlled Tool Operators,51-9161,50690.0,169450.0,1,Mid-Wage Financial & Analytical Specialists
+Computer Numerically Controlled Tool Programmers,51-9162,68120.0,28500.0,1,Mid-Wage Financial & Analytical Specialists
+Adhesive Bonding Machine Operators and Tenders,51-9191,46460.0,11500.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",51-9192,43530.0,14760.0,0,Niche/Specialized Lower-Mid Wage Roles
+Cooling and Freezing Equipment Operators and Tenders,51-9193,41330.0,6900.0,1,Mid-Wage Financial & Analytical Specialists
+Etchers and Engravers,51-9194,43310.0,7750.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Molders, Shapers, and Casters, Except Metal and Plastic",51-9195,46170.0,33190.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Paper Goods Machine Setters, Operators, and Tenders",51-9196,50270.0,96130.0,0,Niche/Specialized Lower-Mid Wage Roles
+Tire Builders,51-9197,57390.0,20770.0,0,Niche/Specialized Lower-Mid Wage Roles
+Helpers--Production Workers,51-9198,39070.0,165700.0,0,Niche/Specialized Lower-Mid Wage Roles
+Aircraft Cargo Handling Supervisors,53-1041,58170.0,9760.0,1,Mid-Wage Financial & Analytical Specialists
+"Airline Pilots, Copilots, and Flight Engineers",53-2011,232140.0,103560.0,2,Elite High-Wage Executives & Medical Specialists
+Commercial Pilots,53-2012,123220.0,47630.0,3,Business & Operations Management
+Air Traffic Controllers,53-2021,148080.0,22510.0,3,Business & Operations Management
+Airfield Operations Specialists,53-2022,56850.0,15190.0,3,Business & Operations Management
+Flight Attendants,53-2031,63580.0,131650.0,1,Mid-Wage Financial & Analytical Specialists
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",53-3011,35450.0,12630.0,1,Mid-Wage Financial & Analytical Specialists
+Driver/Sales Workers,53-3031,38770.0,409180.0,1,Mid-Wage Financial & Analytical Specialists
+Heavy and Tractor-Trailer Truck Drivers,53-3032,58640.0,2062040.0,0,Niche/Specialized Lower-Mid Wage Roles
+Light Truck Drivers,53-3033,44860.0,983300.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Bus Drivers, School",53-3051,47920.0,402930.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Bus Drivers, Transit and Intercity",53-3052,59050.0,159240.0,0,Niche/Specialized Lower-Mid Wage Roles
+Shuttle Drivers and Chauffeurs,53-3053,37290.0,248530.0,0,Niche/Specialized Lower-Mid Wage Roles
+Locomotive Engineers,53-4011,81410.0,33470.0,1,Mid-Wage Financial & Analytical Specialists
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",53-4013,60600.0,3920.0,1,Mid-Wage Financial & Analytical Specialists
+"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",53-4022,68840.0,12400.0,0,Niche/Specialized Lower-Mid Wage Roles
+Railroad Conductors and Yardmasters,53-4031,78000.0,46440.0,1,Mid-Wage Financial & Analytical Specialists
+Subway and Streetcar Operators,53-4041,86380.0,10200.0,1,Mid-Wage Financial & Analytical Specialists
+Sailors and Marine Oilers,53-5011,51520.0,31670.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Captains, Mates, and Pilots of Water Vessels",53-5021,92460.0,36850.0,1,Mid-Wage Financial & Analytical Specialists
+Motorboat Operators,53-5022,47520.0,2480.0,0,Niche/Specialized Lower-Mid Wage Roles
+Ship Engineers,53-5031,109530.0,8400.0,1,Mid-Wage Financial & Analytical Specialists
+Bridge and Lock Tenders,53-6011,57700.0,3040.0,0,Niche/Specialized Lower-Mid Wage Roles
+Parking Attendants,53-6021,35150.0,137880.0,0,Niche/Specialized Lower-Mid Wage Roles
+Automotive and Watercraft Service Attendants,53-6031,35670.0,102010.0,0,Niche/Specialized Lower-Mid Wage Roles
+Aircraft Service Attendants,53-6032,40450.0,31300.0,0,Niche/Specialized Lower-Mid Wage Roles
+Traffic Technicians,53-6041,59090.0,7860.0,1,Mid-Wage Financial & Analytical Specialists
+Transportation Inspectors,53-6051,92100.0,24500.0,1,Mid-Wage Financial & Analytical Specialists
+Passenger Attendants,53-6061,37720.0,27110.0,1,Mid-Wage Financial & Analytical Specialists
+Conveyor Operators and Tenders,53-7011,42420.0,22930.0,0,Niche/Specialized Lower-Mid Wage Roles
+Crane and Tower Operators,53-7021,68080.0,42890.0,0,Niche/Specialized Lower-Mid Wage Roles
+Dredge Operators,53-7031,49640.0,1040.0,0,Niche/Specialized Lower-Mid Wage Roles
+Hoist and Winch Operators,53-7041,56450.0,2600.0,1,Mid-Wage Financial & Analytical Specialists
+Industrial Truck and Tractor Operators,53-7051,46420.0,774420.0,0,Niche/Specialized Lower-Mid Wage Roles
+Cleaners of Vehicles and Equipment,53-7061,35830.0,380430.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Laborers and Freight, Stock, and Material Movers, Hand",53-7062,40240.0,2950280.0,0,Niche/Specialized Lower-Mid Wage Roles
+Machine Feeders and Offbearers,53-7063,41220.0,42330.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Packers and Packagers, Hand",53-7064,36280.0,559820.0,0,Niche/Specialized Lower-Mid Wage Roles
+Stockers and Order Fillers,53-7065,37330.0,2833810.0,0,Niche/Specialized Lower-Mid Wage Roles
+Gas Compressor and Gas Pumping Station Operators,53-7071,77320.0,3510.0,1,Mid-Wage Financial & Analytical Specialists
+"Pump Operators, Except Wellhead Pumpers",53-7072,61770.0,9780.0,0,Niche/Specialized Lower-Mid Wage Roles
+Wellhead Pumpers,53-7073,69960.0,17990.0,0,Niche/Specialized Lower-Mid Wage Roles
+Refuse and Recyclable Material Collectors,53-7081,49690.0,147240.0,0,Niche/Specialized Lower-Mid Wage Roles
+"Tank Car, Truck, and Ship Loaders",53-7121,58870.0,10700.0,0,Niche/Specialized Lower-Mid Wage Roles

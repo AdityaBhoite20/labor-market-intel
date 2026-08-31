@@ -1,0 +1,97 @@
+industry,series_id,year,period,employment_thousands,year_month
+Professional & Business Services,CES6000000001,2023,January,22791,2023-January
+Education & Health Services,CES6500000001,2023,January,24883,2023-January
+Information,CES5000000001,2023,January,3061,2023-January
+Manufacturing,CES3000000001,2023,January,12903,2023-January
+Professional & Business Services,CES6000000001,2023,February,22837,2023-February
+Education & Health Services,CES6500000001,2023,February,24956,2023-February
+Information,CES5000000001,2023,February,3048,2023-February
+Manufacturing,CES3000000001,2023,February,12898,2023-February
+Professional & Business Services,CES6000000001,2023,March,22832,2023-March
+Education & Health Services,CES6500000001,2023,March,25033,2023-March
+Information,CES5000000001,2023,March,3049,2023-March
+Manufacturing,CES3000000001,2023,March,12888,2023-March
+Professional & Business Services,CES6000000001,2023,April,22837,2023-April
+Education & Health Services,CES6500000001,2023,April,25113,2023-April
+Information,CES5000000001,2023,April,3043,2023-April
+Manufacturing,CES3000000001,2023,April,12884,2023-April
+Professional & Business Services,CES6000000001,2023,May,22850,2023-May
+Education & Health Services,CES6500000001,2023,May,25221,2023-May
+Information,CES5000000001,2023,May,3034,2023-May
+Manufacturing,CES3000000001,2023,May,12869,2023-May
+Professional & Business Services,CES6000000001,2023,June,22826,2023-June
+Education & Health Services,CES6500000001,2023,June,25314,2023-June
+Information,CES5000000001,2023,June,3021,2023-June
+Manufacturing,CES3000000001,2023,June,12875,2023-June
+Professional & Business Services,CES6000000001,2023,July,22779,2023-July
+Education & Health Services,CES6500000001,2023,July,25435,2023-July
+Information,CES5000000001,2023,July,3001,2023-July
+Manufacturing,CES3000000001,2023,July,12862,2023-July
+Professional & Business Services,CES6000000001,2023,August,22768,2023-August
+Education & Health Services,CES6500000001,2023,August,25544,2023-August
+Information,CES5000000001,2023,August,2981,2023-August
+Manufacturing,CES3000000001,2023,August,12861,2023-August
+Professional & Business Services,CES6000000001,2023,September,22743,2023-September
+Education & Health Services,CES6500000001,2023,September,25641,2023-September
+Information,CES5000000001,2023,September,2975,2023-September
+Manufacturing,CES3000000001,2023,September,12872,2023-September
+Professional & Business Services,CES6000000001,2023,October,22715,2023-October
+Education & Health Services,CES6500000001,2023,October,25735,2023-October
+Information,CES5000000001,2023,October,2951,2023-October
+Manufacturing,CES3000000001,2023,October,12837,2023-October
+Professional & Business Services,CES6000000001,2023,November,22661,2023-November
+Education & Health Services,CES6500000001,2023,November,25853,2023-November
+Information,CES5000000001,2023,November,2962,2023-November
+Manufacturing,CES3000000001,2023,November,12859,2023-November
+Professional & Business Services,CES6000000001,2023,December,22643,2023-December
+Education & Health Services,CES6500000001,2023,December,25935,2023-December
+Information,CES5000000001,2023,December,2963,2023-December
+Manufacturing,CES3000000001,2023,December,12872,2023-December
+Professional & Business Services,CES6000000001,2024,January,22668,2024-January
+Education & Health Services,CES6500000001,2024,January,26033,2024-January
+Information,CES5000000001,2024,January,2963,2024-January
+Manufacturing,CES3000000001,2024,January,12875,2024-January
+Professional & Business Services,CES6000000001,2024,February,22658,2024-February
+Education & Health Services,CES6500000001,2024,February,26130,2024-February
+Information,CES5000000001,2024,February,2958,2024-February
+Manufacturing,CES3000000001,2024,February,12852,2024-February
+Professional & Business Services,CES6000000001,2024,March,22631,2024-March
+Education & Health Services,CES6500000001,2024,March,26225,2024-March
+Information,CES5000000001,2024,March,2951,2024-March
+Manufacturing,CES3000000001,2024,March,12836,2024-March
+Professional & Business Services,CES6000000001,2024,April,22616,2024-April
+Education & Health Services,CES6500000001,2024,April,26313,2024-April
+Information,CES5000000001,2024,April,2940,2024-April
+Manufacturing,CES3000000001,2024,April,12833,2024-April
+Professional & Business Services,CES6000000001,2024,May,22633,2024-May
+Education & Health Services,CES6500000001,2024,May,26383,2024-May
+Information,CES5000000001,2024,May,2930,2024-May
+Manufacturing,CES3000000001,2024,May,12825,2024-May
+Professional & Business Services,CES6000000001,2024,June,22606,2024-June
+Education & Health Services,CES6500000001,2024,June,26474,2024-June
+Information,CES5000000001,2024,June,2930,2024-June
+Manufacturing,CES3000000001,2024,June,12814,2024-June
+Professional & Business Services,CES6000000001,2024,July,22584,2024-July
+Education & Health Services,CES6500000001,2024,July,26515,2024-July
+Information,CES5000000001,2024,July,2917,2024-July
+Manufacturing,CES3000000001,2024,July,12806,2024-July
+Professional & Business Services,CES6000000001,2024,August,22544,2024-August
+Education & Health Services,CES6500000001,2024,August,26573,2024-August
+Information,CES5000000001,2024,August,2909,2024-August
+Manufacturing,CES3000000001,2024,August,12772,2024-August
+Professional & Business Services,CES6000000001,2024,September,22525,2024-September
+Education & Health Services,CES6500000001,2024,September,26691,2024-September
+Information,CES5000000001,2024,September,2903,2024-September
+Manufacturing,CES3000000001,2024,September,12758,2024-September
+Professional & Business Services,CES6000000001,2024,October,22486,2024-October
+Education & Health Services,CES6500000001,2024,October,26786,2024-October
+Information,CES5000000001,2024,October,2887,2024-October
+Manufacturing,CES3000000001,2024,October,12697,2024-October
+Professional & Business Services,CES6000000001,2024,November,22499,2024-November
+Education & Health Services,CES6500000001,2024,November,26870,2024-November
+Information,CES5000000001,2024,November,2885,2024-November
+Manufacturing,CES3000000001,2024,November,12711,2024-November
+Professional & Business Services,CES6000000001,2024,December,22532,2024-December
+Education & Health Services,CES6500000001,2024,December,26945,2024-December
+Information,CES5000000001,2024,December,2895,2024-December
+Manufacturing,CES3000000001,2024,December,12693,2024-December
