@@ -5,30 +5,22 @@ from db_connection import get_db_engine
 
 engine = get_db_engine()
 
-oews = pd.read_csv("data/processed/oews_all_occupations_2015_2025.csv")
-oews.to_sql("oews_occupations", engine, if_exists="replace", index=False)
-print("Loaded oews_occupations table")
+curated_tables = {
+    "oews_occupations": "oews_all_occupations_2015_2025.csv",
+    "master_occupations": "master_occupations.csv",
+    "occupation_clusters": "occupation_clusters.csv",
+    "employment_forecast": "employment_forecast_2030_2035.csv",
+    "forecast_vs_bls": "forecast_vs_bls_comparison.csv",
+    "ai_exposure_scores": "ai_exposure_scores.csv",
+    "ai_exposure_vs_growth": "ai_exposure_vs_growth.csv",
+    "ces_industry_trends": "ces_industry_trends_clean.csv",
+    "laus_state_trends": "laus_state_trends_clean.csv",
+    "job_title_clusters": "job_title_clusters.csv",
+    "skill_wage_analysis": "full_skill_wage_analysis.csv",
+    "laus_all_states": "laus_all_states_2015_2025.csv",
+}
 
-master = pd.read_csv("data/processed/master_occupations.csv")
-master.to_sql("master_occupations", engine, if_exists="replace", index=False)
-print("Loaded master_occupations table")
-
-onet_skills = pd.read_csv("data/processed/onet_skills.csv")
-onet_skills.to_sql("onet_skills", engine, if_exists="replace", index=False)
-print("Loaded onet_skills table")
-
-ces = pd.read_csv("data/processed/ces_industry_trends_clean.csv")
-ces.to_sql("ces_industry_trends", engine, if_exists="replace", index=False)
-print("Loaded ces_industry_trends table")
-
-laus = pd.read_csv("data/processed/laus_state_trends_clean.csv")
-laus.to_sql("laus_state_trends", engine, if_exists="replace", index=False)
-print("Loaded laus_state_trends table")
-
-ai_exposure = pd.read_csv("data/processed/ai_exposure_scores.csv")
-ai_exposure.to_sql("ai_exposure_scores", engine, if_exists="replace", index=False)
-print("Loaded ai_exposure_scores table")
-
-growth = pd.read_csv("data/processed/occupation_growth_2020_2025.csv")
-growth.to_sql("occupation_growth", engine, if_exists="replace", index=False)
-print("Loaded occupation_growth table")
+for table_name, filename in curated_tables.items():
+    df = pd.read_csv(f"data/curated/{filename}")
+    df.to_sql(table_name, engine, if_exists="replace", index=False)
+    print(f"Loaded {table_name} table ({len(df)} rows)")
